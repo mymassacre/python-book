@@ -1,5 +1,5 @@
 """
-File timerdeco-test.py
+File timerdeco-test_selenium.py
 """
 from __future__ import print_function # 2.X
 from timerdeco import timer

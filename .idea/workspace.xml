@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="143c287b-edc2-491a-afbd-bd08197a158c" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/code/_my/script1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/_my/script2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/_my/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/_my/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/_my/test_selenium.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/access-desc-test.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/access-desc-test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/access-test.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/access-test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/slots-test.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/slots-test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/timerdeco-test.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/timerdeco-test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
       <recent name="C:\Users\korne\Documents\PycharmProjects\pythonProject\code\_my" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.test_selenium">
     <configuration name="a1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_selenium" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,7 +148,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/_my/test.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\korne\Documents\PycharmProjects\pythonProject\code\_my\test_selenium.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,7 +159,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.test_selenium" />
         <item itemvalue="Python.script1" />
         <item itemvalue="Python.a1" />
         <item itemvalue="Python.mod" />
@@ -205,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645000527561</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test">
+      <created>1676796500891</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676796500891</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

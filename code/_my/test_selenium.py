@@ -1,3 +1,4 @@
+import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
@@ -21,7 +22,7 @@ def test_eight_components():
     message = driver.find_element(by=By.ID, value="message")
     value = message.text
     assert value == "Received!"
-
+    time.sleep(5)
     driver.quit()
 
 

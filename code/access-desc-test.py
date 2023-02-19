@@ -1,5 +1,5 @@
 """
-File: access-test.py
+File: access-test_selenium.py
 Test code: separate file to allow decorator reuse.
 """
 import sys

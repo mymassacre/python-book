@@ -1,4 +1,4 @@
-# File slots-test.py
+# File slots-test_selenium.py
 from __future__ import print_function
 import timeit
 base = """
